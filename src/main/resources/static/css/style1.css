@@ -1,0 +1,46 @@
+.mainContainer{
+	width:90%;
+	margin:auto;
+	height:200px;
+	
+}
+.leftHeader{
+	width:30%;
+	height:230;
+	margin:5px;
+	float:left;
+}
+.rightHeaderMain{
+	width:60%;
+	float:right;
+	margin:5px;
+}
+.middleHeader{
+	width:40%;
+	height:230;
+	float:left;
+	margin:5px;
+}
+.rightHeader{
+	width:40%;
+	height:230;
+	float:right;
+	margin:5px;
+}
+.facultyName{
+	font-size:2em;
+}
+.mainBody{
+	width:90%;
+	margin:auto;
+}
+.action{
+	width:50px;
+}
+.pic{
+	width:150px;
+	height:150px;
+}
+.myProfile{
+	padding-left:20px;
+}
