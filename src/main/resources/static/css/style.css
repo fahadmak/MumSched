@@ -1,0 +1,177 @@
+.buttonDiv {
+	width: 30px;
+}
+
+.mainContainer {
+	width: 80%;
+	margin-left: 20px;
+}
+
+body, html {
+	height: 100%;
+}
+
+.bg {
+	/* The image used */
+	background-image: url("/image/mum.jpg");
+	/* Full height */
+	height: 100%;
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+/*login form  */
+ .row {
+	margin-top:105px;
+} 
+.body-style {
+	background: #43cea2;
+	background: -webkit-linear-gradient(to right, #185a9d, #43cea2);
+	background: linear-gradient(to right, #185a9d, #43cea2);
+	background: linear-gradient(to right, #185a9d, #43cea2);
+}
+
+.panel-default {
+	margin-top: 50px;
+	background: #43cea2;
+	background: -webkit-linear-gradient(to right, #185a9d, #43cea2);
+	background: linear-gradient(to right, #185a9d, #43cea2);
+	border: 2px solid lightblue;
+	border-radius: 25px;
+}
+
+/* /*  add entry */
+.header {
+	text-align: center;
+	display: block;
+}
+
+.add-form {
+	background: #43cea2;
+	background: -webkit-linear-gradient(to right, #185a9d, #43cea2);
+	background: linear-gradient(to right, #185a9d, #43cea2);
+}
+
+.btn-primary {
+	display: block;
+	margin: 0 auto;
+	/* width: 25%; */
+}
+
+.form-control {
+	background-color: #b6c5de;
+}
+
+.form-control:hover {
+	background-color: lightblue;
+}
+
+.addForm {
+	width: 50%;
+	margin: 30px auto;
+	border-style: solid;
+	border-radius: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+/* add Admin*/
+.col-md-12{
+	width: 50%;
+	margin: 10px 200px;
+	border-style: solid;
+	border-radius: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+.loginForm {
+	width: 400px;
+	height: 45%;
+	border-style: solid;
+	border-color: lightgrey;
+	border-radius: 25px;
+	margin-left: 450px; //
+	box-shadow: 10px 10px 5px #888888;
+	padding: 20px;
+	overflow: auto;
+	margin-top: 180px;
+	position: relative;
+	background-color: lightgblue;
+}
+
+.imageClass {
+	width: 250px;
+	height: 300px;
+	border-style: solid;
+	border-color: lightgrey;
+	box-shadow: 10px 10px 5px #888888;
+	border-radius: 25px;
+}
+
+/* .starter-template {
+	background-image: url("/image/mum.jpg");
+} */
+
+/* .students {
+	background-image: url("/image/students.jpg");
+}
+
+.entry {
+	background-image: url("/image/facultymanagment.jpg");
+}
+
+.schedule {
+	background-image: url("/image/schedule.jpg");
+} */
+
+.add-role {
+	width:30%;
+	/* heigh:50%; */
+	 border: 2px solid lightgray; 
+	border-radius: 25px; 
+	margin:auto;
+	
+}
+
+/*fragment style*/
+/* .navbar-inverse, .navbar-collapse, .active, .navbar-nav{
+	background-color:gray;
+} */
+
+/*schedule background*/
+.schedule {
+	/* The image used */
+	background-image: url("/image/draft1.jpg");
+	background-position:700px;
+	/* opacity:0.3; */
+	/* Full height */
+	/* height: 100%; */
+	/* Center and scale the image nicely */
+	/* background-position: center;
+	background-repeat: repeat-x repeat-y;
+	background-size: cover; */
+}
+
+/* * modify fragments*/
+.navbar-fixed-left {
+  width: 140px;
+  position: fixed;
+  border-radius: 0;
+  height: 100%;
+}
+
+.navbar-fixed-left .navbar-nav > li {
+  float: none;  Cancel default li float: left
+  width: 139px;
+}
+
+.navbar-fixed-left + .container {
+  padding-left: 160px;
+}
+
+On using dropdown menu (To right shift popuped)
+.navbar-fixed-left .navbar-nav > li > .dropdown-menu {
+  margin-top: -50px;
+  margin-left: 140px;
+} */
